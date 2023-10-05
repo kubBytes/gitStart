@@ -1,1 +1,2 @@
 ---------- git練習 ----------
+02-addMsg : Hello, World!
